@@ -1,0 +1,15 @@
+UNIT 4:
+Distributed Scheduling And Deadlock
+Distributed Scheduling-Issues in Load Distributing,
+Components for Load Distributing Algorithms, 
+Different Types of Load Distributing Algorithms, 
+Task Migration and its issues. Deadlock-Issues in deadlock detection & Resolutions,
+Deadlock Handling Strategy, Distributed Deadlock Algorithms,
+
+UNIT 5:
+Distributed Multimedia & Database system
+Distributed Data Base Management System(DDBMS),
+Types of Distributed Database,
+Distributed Multimedia:- Characteristics of multimedia Data,
+Quality of Service Managements. 
+Case Study of Distributed System:- Amoeba, Mach, Chorus
