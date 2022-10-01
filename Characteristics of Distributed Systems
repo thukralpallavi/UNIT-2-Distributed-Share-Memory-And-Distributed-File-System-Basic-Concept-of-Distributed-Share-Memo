@@ -1,0 +1,14 @@
+c Characteristics of
+Distributed Systems
+A Distributed System has the following characteristics:
+
+It consists of several independent computers connected through communication network,
+
+The computers communicate with each other by exchanging message over a
+communication network.
+
+Each computer has its own memory, clock and runs its own operating system.
+
+Each computer has its own resources, called local resources
+
+Remote resources are accessed through the networks
