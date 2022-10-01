@@ -1,0 +1,14 @@
+a
+Distributed System (DS) is one in which
+
+Hardware and software components, located at remote networked computers, coordinate and
+communicate their actions only by passing messages. Any distance may separate computers in the
+network.
+
+Sharing of resources is the main motivation of distributed systems. Resources may
+be managed
+by servers and accessed by clients, or they may be encapsulated as objects and accessed by clien
+t
+objects.
+A distributed operating system runs on multiple independent computers, connected through
+communication network, but appears to its users as a single virtual machine and runs its own OS
